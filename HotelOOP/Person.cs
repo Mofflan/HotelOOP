@@ -6,5 +6,8 @@ namespace HotelOOP
 {
     internal class Person
     {
+        //EPOST NUMMER NAMN KUNDVAGN 
+
+
     }
 }
